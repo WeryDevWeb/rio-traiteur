@@ -1,2 +1,2 @@
-# rio-traiteur-
+# rio-traiteur
 Web Food Application
