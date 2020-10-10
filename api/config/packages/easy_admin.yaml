@@ -1,0 +1,8 @@
+easy_admin:
+    entities:
+#        # List the entity class name you want to manage
+        - App\Entity\Client
+        - App\Entity\User
+        - App\Entity\Commande
+        - App\Entity\Categorie
+        - App\Entity\Profil
